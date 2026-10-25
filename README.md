@@ -22,7 +22,6 @@ This README is the course overview and resource directory. The substantive teach
 
 - [Student Guide — full course description (PDF)](https://drive.google.com/file/d/1ikSabs3fJEb6TNnroDB7K4HIaGkfIXxC/view?usp=drivesdk)
 - [Collected introductory readings — AI, Judgment, and the Future of Finance (PDF)](https://drive.google.com/file/d/1bUxRatbro25u9sATpvvGywbfvHJODWMh/view?usp=drivesdk)
-- [Complete course materials in Google Drive](https://drive.google.com/drive/folders/1BG-dV7FHWjYrkIzQqNr8YdD_V_ZLjbCM)
 - [Course infographic](https://drive.google.com/file/d/1aAm1GgsDsatNN88J-2Lw7Wt18FG5BqrV/view?usp=drivesdk)
 - [Course overview podcast](https://drive.google.com/file/d/1g4H3rfc_q46LspgzGXmBm6RJSUMYFRO5/view?usp=drivesdk)
 
