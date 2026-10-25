@@ -75,10 +75,10 @@ Legal inquiry requires more than a plausible answer. This example connects autho
 
 | Resource | Direct links |
 | --- | --- |
-| Monograph | [el_segundo_cerebro_legal_monografia.pdf](https://drive.google.com/file/d/1nI7o_0WHN2ynLE0HRheW1wlvHPWk-wIT/view?usp=drivesdk) · [the legal second brain.pdf](https://drive.google.com/file/d/1FrbY0uyRg2U5aU-_tVgURwJ5osF13OEL/view?usp=drivesdk) |
-| Slide deck | [el_segundo_cerebro_legal_deck.pdf](https://drive.google.com/file/d/1Y1h7arS-p4sz8dvqU0vTx291WXK3CDy8/view?usp=drivesdk) · [slides the legal second brain.pdf](https://drive.google.com/file/d/1XmDwBXQFF9B7ErWVAUT3X7NtpOHIcIb7/view?usp=drivesdk) |
-| Notebook and supporting files | [el_segundo_cerebro_legal.ipynb](https://drive.google.com/file/d/1FFwv2OfnJ83_fiztJ__-ZB8etL0Jh0Lp/view?usp=drivesdk) · [the_legal_second_brain_notebook.ipynb](https://drive.google.com/file/d/1lvg13AwOjuK81ZH86R0S7wgd9CBChMQ9/view?usp=drivesdk) |
-| Podcast | [La_IA_legal_que_reconoce_sus_límites.mp3](https://drive.google.com/file/d/17DbjU-N9TDl30ga0UPzEC8GA3wWOsyIC/view?usp=drivesdk) · [Autonomous_Research_Agents_in_Synthetic_Law.mp3](https://drive.google.com/file/d/1OIx3aqLRdaIZpU_v56BQuhjJpHF9AYxg/view?usp=drivesdk) · [La_IA_legal_que_reconoce_sus_límites.m4a](https://drive.google.com/file/d/1YGYW1XGQlSKD0miRe_GYvn34Cisp6g9f/view?usp=drivesdk) · [Autonomous_Research_Agents_in_Synthetic_Law.m4a](https://drive.google.com/file/d/1hK7B2_UgS-H6b_-ZvYX5Qa7zWL7goo1x/view?usp=drivesdk) |
+| Monograph | [the legal second brain.pdf](https://drive.google.com/file/d/1FrbY0uyRg2U5aU-_tVgURwJ5osF13OEL/view?usp=drivesdk) |
+| Slide deck | [slides the legal second brain.pdf](https://drive.google.com/file/d/1XmDwBXQFF9B7ErWVAUT3X7NtpOHIcIb7/view?usp=drivesdk) |
+| Notebook | [the_legal_second_brain_notebook.ipynb](https://drive.google.com/file/d/1lvg13AwOjuK81ZH86R0S7wgd9CBChMQ9/view?usp=drivesdk) |
+| Podcast | [Autonomous_Research_Agents_in_Synthetic_Law.m4a](https://drive.google.com/file/d/1hK7B2_UgS-H6b_-ZvYX5Qa7zWL7goo1x/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1j-1ZWGOT6JkWYj3xjmYzSrpQGvYcHhJL)
 
@@ -90,7 +90,7 @@ Central-bank questions span institutional mandates, policy decisions and financi
 | --- | --- |
 | Monograph | [second_brain_central_bank.pdf](https://drive.google.com/file/d/1ww5cwn2N4RynNlFVkbEcUTr1uWEzrABm/view?usp=drivesdk) |
 | Slide deck | [slides_beamer_second_brain_central_bank.pdf](https://drive.google.com/file/d/1Or-U7EgSjWemNBY0QCVwxW4YzcFt5co5/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_second_brain_central_bank.ipynb](https://drive.google.com/file/d/16xv_0V5aSmHnBLSA1R9hWFkpT-CEXF1S/view?usp=drivesdk) |
+| Notebook | [notebook_second_brain_central_bank.ipynb](https://drive.google.com/file/d/16xv_0V5aSmHnBLSA1R9hWFkpT-CEXF1S/view?usp=drivesdk) |
 | Podcast | [AI_Knowledge_Graphs_for_Central_Banking.m4a](https://drive.google.com/file/d/1FdvnxU-fyS9VDcxV2SxzVIf9kip84rih/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1HO6I85_h_d5kSY0PbwCKICW6JiRXfuLL)
@@ -105,7 +105,7 @@ A racing system makes the transition from explanation to action concrete. It mus
 | --- | --- |
 | Monograph | [self_driving_race_car.pdf](https://drive.google.com/file/d/1fZgmbwppd-aMgTLAs_IvxCFmf-dTFpvw/view?usp=drivesdk) |
 | Slide deck | [self_driving_car_slides.pdf](https://drive.google.com/file/d/18dSxcAmFqQ8WMiC4yvdNQ_gRd64deyrZ/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_self_driving_car.ipynb](https://drive.google.com/file/d/1-JkjM_FEL9j8X9HBY2rHoMWmokdou_36/view?usp=drivesdk) |
+| Notebook | [notebook_self_driving_car.ipynb](https://drive.google.com/file/d/1-JkjM_FEL9j8X9HBY2rHoMWmokdou_36/view?usp=drivesdk) |
 | Podcast | [podcast_self_driving_car.m4a](https://drive.google.com/file/d/16NkY0ESsKd9kmJqo5JhULDE32JnTEorM/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1PYPmHOPDx53rxvTxL_kdhPDE6vKwSIGl)
@@ -118,7 +118,7 @@ The air-traffic-control materials extend the problem from one autonomous actor t
 | --- | --- |
 | Monograph | [monograph_self_driving_atc.pdf](https://drive.google.com/file/d/1aJA7dbNpGg2ohMEST2g0GGl1lNHm3W6c/view?usp=drivesdk) |
 | Slide deck | [slides_self_driving_air_traffic_control.pdf](https://drive.google.com/file/d/1vQoSAwAqzCpoULCUhaUnVYdGykSCkz-R/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_self_driving_air_traffic_control.ipynb](https://drive.google.com/file/d/1hU5_PxBlfIWo50vxEUGOKQokEm_eX_VP/view?usp=drivesdk) |
+| Notebook | [notebook_self_driving_air_traffic_control.ipynb](https://drive.google.com/file/d/1hU5_PxBlfIWo50vxEUGOKQokEm_eX_VP/view?usp=drivesdk) |
 | Podcast | [Separating_AI_Reasoning_From_Authority.m4a](https://drive.google.com/file/d/1rkJJ_PqQYA9-MwiKL8H2IWGWQ5BgbmL_/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1vQrLpOgA6QHzrXAaPzRLBpwhBNs9KlNe)
@@ -139,7 +139,7 @@ An LLM-supported research loop compares trading architectures and evaluates cand
 | --- | --- |
 | Monograph | [monograph_self_driving_trading_system.pdf](https://drive.google.com/file/d/1jRcDnS6zYq4G02_iFLSkXdsa2kiGKBFi/view?usp=drivesdk) |
 | Slide deck | [slides_self_driving_trading_system.pdf](https://drive.google.com/file/d/103QVMecop9oJpbnThwWjx9JSYcplOSUm/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_self_driving_trading_system.ipynb](https://drive.google.com/file/d/1JNEfxfN5EUR7YOuy0xsXJ5fE05UESxEP/view?usp=drivesdk) |
+| Notebook | [notebook_self_driving_trading_system.ipynb](https://drive.google.com/file/d/1JNEfxfN5EUR7YOuy0xsXJ5fE05UESxEP/view?usp=drivesdk) |
 | Podcast | [Governing_AI_in_Quantitative_Research.m4a](https://drive.google.com/file/d/14N1qC-dQ7GRlyDk_SJuNgR2ke8unWaDE/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1Eu9iqU2Fv3gcWN8MaNj32H2at3XNJZ4I)
@@ -152,7 +152,7 @@ An M&A mandate becomes the organising problem for an ecosystem of specialist age
 | --- | --- |
 | Monograph | [monograph_dynamic_agentic_ecosystems.pdf](https://drive.google.com/file/d/1Fk5KT1Sj3gHpCOQ5O0CqDWI5m1hsIMAP/view?usp=drivesdk) |
 | Slide deck | [slides_dynamic_agentic_ecosystems.pdf](https://drive.google.com/file/d/1GjfxBWOH-U1xegf8OIFv5BGODva6RwVE/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_dynamic_agentic_ecosystems.ipynb](https://drive.google.com/file/d/1f8IydOPjVv9geQTlsUWa31442L1cZE7b/view?usp=drivesdk) |
+| Notebook | [notebook_dynamic_agentic_ecosystems.ipynb](https://drive.google.com/file/d/1f8IydOPjVv9geQTlsUWa31442L1cZE7b/view?usp=drivesdk) |
 | Podcast | [Governed_Agentic_Ecosystems_in_Corporate_Finance.m4a](https://drive.google.com/file/d/1AhIxgTCwBZRWBnWVrlJ1pEpQQ60xuoSh/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/14xpOM_qgsO7SHJ0cru8xRD-UejFhiLaW)
@@ -165,7 +165,7 @@ Cybersecurity places the autonomous loop in an adversarial environment. The syst
 | --- | --- |
 | Monograph | [self_driving_cybersecurity.pdf](https://drive.google.com/file/d/1FX07it_JarncICExepapULK19hzJAO31/view?usp=drivesdk) |
 | Slide deck | [self_driving_cybersecurity.pdf](https://drive.google.com/file/d/1P-kaSxTMCI5mGG6yJcT2U5yj_PKW-Ic4/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_self_diving_cybersecurity.ipynb](https://drive.google.com/file/d/1e28K61PCOLoQEJ9FdJs49AZLV7ziGYEo/view?usp=drivesdk) |
+| Notebook | [notebook_self_diving_cybersecurity.ipynb](https://drive.google.com/file/d/1e28K61PCOLoQEJ9FdJs49AZLV7ziGYEo/view?usp=drivesdk) |
 | Podcast | [podcast_self_driving_cybersecurity.m4a](https://drive.google.com/file/d/1xyEhsKL8yJK1bW2ZWHsIu71Pabhs4Ye2/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1WM2XLsVNMGtHCwWaNV0y5_5L7m5yQ3Ib)
@@ -180,7 +180,7 @@ The Harness Ladder integrates six experiments into one course example: accountin
 | --- | --- |
 | Monograph | [monograph_the_harness_ladder.pdf](https://drive.google.com/file/d/1m60erXjk2OTCd_jZO9cYXqF9iXk3owdW/view?usp=drivesdk) |
 | Slide deck | [Harness_Ladder_Beamer.pdf](https://drive.google.com/file/d/1aB0pMl1kMQGFFtOA9jD8whzE8pyb_ipw/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_complete_harness_ladder.ipynb](https://drive.google.com/file/d/18io5fpAl6nUqZHzymPeK3iscODfJlz8t/view?usp=drivesdk) · [HARNESS_LADDER_RUN_RECORDS.zip](https://drive.google.com/file/d/1RpDfJWxV0qCu0tynSwfpj4NsSwSU3IXA/view?usp=drivesdk) |
+| Notebook | [notebook_complete_harness_ladder.ipynb](https://drive.google.com/file/d/18io5fpAl6nUqZHzymPeK3iscODfJlz8t/view?usp=drivesdk) |
 | Podcast | [podcast_harnessing.m4a](https://drive.google.com/file/d/1RznsuCpac4F1AaguzT_3C_Vf6v8exP_r/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/10Ajx9xA7XJGZIPoAsWQM5ICni-3bNug-)
@@ -199,10 +199,10 @@ Fifty synthetic institutional specialists examine Mexico’s Securities Market A
 
 | Resource | Direct links |
 | --- | --- |
-| Monograph | [LMV_monografia_50_agentes_reforman_la_ley.pdf](https://drive.google.com/file/d/1IaCVmMrxUB1OR41cArP8xW-fUCTfD_Ul/view?usp=drivesdk) · [LMV_50_Agent_Swarm_Monograph.pdf](https://drive.google.com/file/d/1fQg7R_uyuRvmvr3KkJ6nxZx0BDQmPptp/view?usp=drivesdk) |
-| Slide deck | [slides_spanish_version.pdf](https://drive.google.com/file/d/1lRmA-SLZUvv7QUDDUoUN9DBTM7mOS0wQ/view?usp=drivesdk) · [slides_swarm_congress.pdf](https://drive.google.com/file/d/1tREc8AZWDAhu9JCYciT1ZdCIM43YjB0l/view?usp=drivesdk) |
-| Notebooks | [50_AI_AGENTS_GO_TO_CONGRESS.ipynb](https://drive.google.com/file/d/1RAbaZuQLSI4LKEq4E6uDMQtHEgfK4gx1/view?usp=drivesdk) · [50_AGENTES_VAN_AL_CONGRESO.ipynb](https://drive.google.com/file/d/1q1uI5555Gk1A4MPpVNFpWzTIKZe37Z76/view?usp=drivesdk) |
-| Podcast | [IA_redacta_reformas_al_mercado_de_valores.mp3](https://drive.google.com/file/d/1XKpKbt7cAnvP0IgVtij6j3qTh_EAggCm/view?usp=drivesdk) · [How_50_AI_Agents_Reform_Securities_Law.mp3](https://drive.google.com/file/d/1VFzi6oLqLftnvY4RyRuPgyV3oiS7v0U8/view?usp=drivesdk) · [How_50_AI_Agents_Reform_Securities_Law.m4a](https://drive.google.com/file/d/1f2sOucs4ykOFKmeM3sa5zHuXg6S6-w8-/view?usp=drivesdk) · [IA_redacta_reformas_al_mercado_de_valores.m4a](https://drive.google.com/file/d/1v9-b7Z1Lv39Ek61U6lqFFykiCtbtCWK-/view?usp=drivesdk) |
+| Monograph | [LMV_50_Agent_Swarm_Monograph.pdf](https://drive.google.com/file/d/1fQg7R_uyuRvmvr3KkJ6nxZx0BDQmPptp/view?usp=drivesdk) |
+| Slide deck | [slides_swarm_congress.pdf](https://drive.google.com/file/d/1tREc8AZWDAhu9JCYciT1ZdCIM43YjB0l/view?usp=drivesdk) |
+| Notebook | [50_AI_AGENTS_GO_TO_CONGRESS.ipynb](https://drive.google.com/file/d/1RAbaZuQLSI4LKEq4E6uDMQtHEgfK4gx1/view?usp=drivesdk) |
+| Podcast | [How_50_AI_Agents_Reform_Securities_Law.m4a](https://drive.google.com/file/d/1f2sOucs4ykOFKmeM3sa5zHuXg6S6-w8-/view?usp=drivesdk) |
 | Illustrative reform documents | [Iniciativa_Reforma_LMV_version_juridica_mexicana.pdf](https://drive.google.com/file/d/10tA6wOagCuOyeX_X71Hvh8-hoaVFupDK/view?usp=drivesdk) · [proposed_decree_securities_market_act.pdf](https://drive.google.com/file/d/1yuaNEC2KV_t87-5rfA-dL8k8jIOvyj95/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1o7qpzS7OwzMMouJs8KhSnBpCqfFOPkdO)
@@ -215,7 +215,7 @@ Fifty scientific perspectives explore hypotheses about latent financial market r
 | --- | --- |
 | Monograph | [monograph_swarm_market_regime_detection.pdf](https://drive.google.com/file/d/1mhZHi74Lp2cm9W9bWD-x7JnmUdBBVCJb/view?usp=drivesdk) |
 | Slide deck | [slides_swarm_market_regime_detection.pdf](https://drive.google.com/file/d/1rJiraPfiduHFw02Kf6-4VtkoxlLMeXGe/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_swarm_market_regime_detection.ipynb](https://drive.google.com/file/d/1Fz_GXg64P1A9ohCoONJr4sUXAy8Tx6xf/view?usp=drivesdk) |
+| Notebook | [notebook_swarm_market_regime_detection.ipynb](https://drive.google.com/file/d/1Fz_GXg64P1A9ohCoONJr4sUXAy8Tx6xf/view?usp=drivesdk) |
 | Podcast | [podcast_swarm_market_regime_detection.m4a](https://drive.google.com/file/d/1mF2hkw3GxFzNJk1YZ5d7fC__v2mrXg6N/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/18OuASKL7ADwctHikcsiao20JjXpx2gMg)
@@ -228,10 +228,10 @@ The Guide frames this example around agents that help design how their work is o
 
 | Resource | Direct links |
 | --- | --- |
-| Monograph | [monograph_self_taught_optimizers.pdf](https://drive.google.com/file/d/112F2LzX2R6VXwuIZuPPxgrZbEawi1pBE/view?usp=drivesdk) · [SELF_TAUGHT_OPTIMIZERS.zip](https://drive.google.com/file/d/14PlA-TLrtY8Z5ZEqfiK9tYLH2SqzkEq4/view?usp=drivesdk) |
+| Monograph | [monograph_self_taught_optimizers.pdf](https://drive.google.com/file/d/112F2LzX2R6VXwuIZuPPxgrZbEawi1pBE/view?usp=drivesdk) |
 | Slide deck | [slides_self_taught_optimizers.pdf](https://drive.google.com/file/d/1D2_O7cJv4b0oRhsm023if99R2nsM34_H/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_self_taught_optimizers.ipynb](https://drive.google.com/file/d/1XSqueNy5Lt2JBmBHvnEg44jwlUVUHBBR/view?usp=drivesdk) |
-| Podcast | Not yet available — [podcast folder](https://drive.google.com/drive/folders/1nTmSCofafqMaiCa-IDqrmqQpj5uzxizj) is empty as of 25 October 2026. |
+| Notebook | [notebook_self_taught_optimizers.ipynb](https://drive.google.com/file/d/1XSqueNy5Lt2JBmBHvnEg44jwlUVUHBBR/view?usp=drivesdk) |
+| Podcast | [How_AI_Societies_Rewrite_Their_Own_Rules.m4a](https://drive.google.com/file/d/1qAf4PqLchvzzj5QY4iNFP6UHe3uoFQ-R/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1jw3GSlptUPu7je8aRDa-cqcVbbFjUkva)
 
@@ -243,7 +243,7 @@ The capstone begins with separate finance, engineering and cybersecurity societi
 | --- | --- |
 | Monograph | [monograph_swarm_escapes.pdf](https://drive.google.com/file/d/1zl8qIU2xdOTZHtlTqdruoiRccVKnZGdZ/view?usp=drivesdk) |
 | Slide deck | [slides_escapes_autonomous_systems.pdf](https://drive.google.com/file/d/1Xnnl-LFUQTTrWmblIWPetrLeSurLmWFa/view?usp=drivesdk) |
-| Notebook and supporting files | [notebook_swarm_escapes.ipynb](https://drive.google.com/file/d/1SmzOLTs1hE0kf9n8msBN0QmA82gsnqnu/view?usp=drivesdk) |
+| Notebook | [notebook_swarm_escapes.ipynb](https://drive.google.com/file/d/1SmzOLTs1hE0kf9n8msBN0QmA82gsnqnu/view?usp=drivesdk) |
 | Podcast | [podcast_escapes_autonomous_systems.m4a](https://drive.google.com/file/d/1ziUgj-Nq3bbvP-IE_BEDPmfdmpWNyWGq/view?usp=drivesdk) |
 
 [Browse all files for this example](https://drive.google.com/drive/folders/1Rip_KF_EIfLv4GVg8vlXi7ZYcAXiMyII)
@@ -254,7 +254,7 @@ Before each lecture, read the relevant essay in the collection and review its co
 
 Notebook links open the original files in Drive. To run a notebook, open it with Google Colab where that option is available, or download the `.ipynb` file and upload it to Colab. Work in your own copy and follow the notebook’s setup instructions. Some experiments require model access or API credentials; these are not prerequisites for following the classroom discussion.
 
-English and Spanish variants are linked where present, with filenames retained to make the versions identifiable. Example 11 currently has a monograph, deck and notebook, but its podcast folder is empty. Source archives and supporting run records are included where they appear alongside the teaching files.
+The resource tables link to English teaching materials and M4A podcasts, with original filenames retained for identification. Example 9 also includes both Spanish and English versions of the illustrative reform documents. All twelve examples include a monograph, slide deck, notebook and podcast.
 
 Drive links preserve the existing sharing settings. If a file requests sign-in or access, use the account authorised for the course or request access from the owner. The directory was checked against the connected Drive account on **25 October 2026**; anonymous access has not been independently verified.
 
