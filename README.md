@@ -21,7 +21,7 @@ This README is the course overview and resource directory. The substantive teach
 ## Start here
 
 - [Student Guide — full course description (PDF)](https://drive.google.com/file/d/1ikSabs3fJEb6TNnroDB7K4HIaGkfIXxC/view?usp=drivesdk)
-- [Collected introductory readings — AI, Judgment, and the Future of Finance (PDF)](https://drive.google.com/file/d/1bUxRatbro25u9sATpvvGywbfvHJODWMh/view?usp=drivesdk)
+- [Collected introductory readings — AI, Judgment, and the Future of Finance (PDF)](https://drive.google.com/file/d/1VBz25XbCSZAtxU7A183uo6uZLrsE_cKD/view?usp=sharing)
 - [Course infographic](https://drive.google.com/file/d/1aAm1GgsDsatNN88J-2Lw7Wt18FG5BqrV/view?usp=drivesdk)
 - [Course overview podcast](https://drive.google.com/file/d/1g4H3rfc_q46LspgzGXmBm6RJSUMYFRO5/view?usp=drivesdk)
 
@@ -49,13 +49,13 @@ The course contains **four numbered examples per lecture**. The detailed Lecture
 
 ## Opening readings
 
-The [collected readings PDF](https://drive.google.com/file/d/1bUxRatbro25u9sATpvvGywbfvHJODWMh/view?usp=drivesdk) provides the opening readings for **Lectures I, II and III**. The reading titles and lecture titles serve different purposes: the essays frame the intellectual questions; the lectures organise the applied work.
+The [collected readings PDF](https://drive.google.com/file/d/1VBz25XbCSZAtxU7A183uo6uZLrsE_cKD/view?usp=sharing) provides the opening readings for **Lectures I, II and III**. The reading titles and lecture titles serve different purposes: the essays frame the intellectual questions; the lectures organise the applied work.
 
-| Place in the course | Essay | Companion slides |
-| --- | --- | --- |
-| Lecture I | **From Models to Autonomous Institutions** — the opening address develops the five-generations perspective identified in the Guide as “The Five Generations of AI”. | [Lecture I slides (PDF)](https://drive.google.com/file/d/1UAf0FCofIU62scwPmBvvZdtvhdklZDyh/view?usp=drivesdk) |
-| Lecture II | **Who Is Artificial Intelligence?** — agency, delegated authority, judgment and responsibility. | [Lecture II slides (PDF)](https://drive.google.com/file/d/1Pq15kcWSpbdxxs3SWwZWM-bQEHlM9Ios/view?usp=drivesdk) |
-| Lecture III | **The Exo-Brain** — extending human memory, reasoning and collaboration through a persistent cognitive environment. | [Lecture III slides (PDF)](https://drive.google.com/file/d/1MA0cJuwH4-BgVKKYZnf8lePlMvkg_Be7/view?usp=drivesdk) |
+| Place in the course | Essay | Companion slides | Supporting audio |
+| --- | --- | --- | --- |
+| Lecture I | **From Models to Autonomous Institutions** — the opening address develops the five-generations perspective identified in the Guide as “The Five Generations of AI”. | [Lecture I slides (PDF)](https://drive.google.com/file/d/1UAf0FCofIU62scwPmBvvZdtvhdklZDyh/view?usp=drivesdk) | [Lecture I supporting audio](https://drive.google.com/file/d/11zyJpNxcra_lavfR9s99hgHNbk4TxEof/view?usp=sharing) |
+| Lecture II | **Who Is Artificial Intelligence?** — agency, delegated authority, judgment and responsibility. | [Lecture II slides (PDF)](https://drive.google.com/file/d/1Pq15kcWSpbdxxs3SWwZWM-bQEHlM9Ios/view?usp=drivesdk) | [Lecture II supporting audio](https://drive.google.com/file/d/1bvVELKFln4Eq4-0dXZdDWaGmPUlP2Goi/view?usp=sharing) |
+| Lecture III | **The Exo-Brain** — extending human memory, reasoning and collaboration through a persistent cognitive environment. | [Lecture III slides (PDF)](https://drive.google.com/file/d/1MA0cJuwH4-BgVKKYZnf8lePlMvkg_Be7/view?usp=drivesdk) | [Lecture III supporting audio](https://drive.google.com/file/d/1dqvsTYc2tjYCgz5_0k_lYWdCSvyIKTIZ/view?usp=sharing) |
 
 The opening essays invite reflection rather than supply a technical taxonomy. They establish the intellectual questions that guide each lecture and connect emerging AI capabilities with professional judgment and institutional responsibility.
 
