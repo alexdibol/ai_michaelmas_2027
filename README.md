@@ -82,9 +82,9 @@ Central-bank questions span institutional mandates, policy decisions and financi
 
 | Resource | Link |
 | --- | --- |
-| Monograph | [Monograph](https://drive.google.com/file/d/1ww5cwn2N4RynNlFVkbEcUTr1uWEzrABm/view?usp=drivesdk) |
-| Slides | [Slides](https://drive.google.com/file/d/1Or-U7EgSjWemNBY0QCVwxW4YzcFt5co5/view?usp=drivesdk) |
-| Notebook | [Notebook](https://drive.google.com/file/d/16xv_0V5aSmHnBLSA1R9hWFkpT-CEXF1S/view?usp=drivesdk) |
+| Monograph | [Monograph](https://drive.google.com/file/d/1Gq_VF6pbH-cjNFnRA5bv3WvOd4SHpFfN/view?usp=sharing) |
+| Slides | [Slides](https://drive.google.com/file/d/1NHzd-UkFW6ZIy-9hIQLZbmtvZVG9CpXW/view?usp=sharing) |
+| Notebook | [Notebook](https://drive.google.com/file/d/1dYtL5I1I1RUDzL5lGaSdUt5baMh9JHdV/view?usp=sharing) |
 | Podcast | [Podcast](https://drive.google.com/file/d/1FdvnxU-fyS9VDcxV2SxzVIf9kip84rih/view?usp=drivesdk) |
 
 ### Application B · Intelligent action
