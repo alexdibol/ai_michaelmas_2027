@@ -83,7 +83,7 @@ Central-bank questions span institutional mandates, policy decisions and financi
 | Resource | Link |
 | --- | --- |
 | Monograph | [Monograph](https://drive.google.com/file/d/1Gq_VF6pbH-cjNFnRA5bv3WvOd4SHpFfN/view?usp=sharing) |
-| Slides | [Slides](https://drive.google.com/file/d/1NHzd-UkFW6ZIy-9hIQLZbmtvZVG9CpXW/view?usp=sharing) |
+| Slides | [Slides](https://drive.google.com/file/d/1wPo24MrXwkehiq7mmt68mlCaEyLEE_v2/view?usp=sharing) |
 | Notebook | [Notebook](https://drive.google.com/file/d/1dYtL5I1I1RUDzL5lGaSdUt5baMh9JHdV/view?usp=sharing) |
 | Podcast | [Podcast](https://drive.google.com/file/d/1FdvnxU-fyS9VDcxV2SxzVIf9kip84rih/view?usp=drivesdk) |
 
