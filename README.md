@@ -111,7 +111,7 @@ The air-traffic-control materials extend the problem from one autonomous actor t
 | Resource | Link |
 | --- | --- |
 | Monograph | [Monograph](https://drive.google.com/file/d/1aJA7dbNpGg2ohMEST2g0GGl1lNHm3W6c/view?usp=drivesdk) |
-| Slides | [Slides](https://drive.google.com/file/d/1wPo24MrXwkehiq7mmt68mlCaEyLEE_v2/view?usp=sharing) |
+| Slides | [Slides](https://drive.google.com/file/d/1vQoSAwAqzCpoULCUhaUnVYdGykSCkz-R/view?usp=drivesdk) |
 | Notebook | [Notebook](https://drive.google.com/file/d/1hU5_PxBlfIWo50vxEUGOKQokEm_eX_VP/view?usp=drivesdk) |
 | Podcast | [Podcast](https://drive.google.com/file/d/1rkJJ_PqQYA9-MwiKL8H2IWGWQ5BgbmL_/view?usp=drivesdk) |
 
